@@ -6,6 +6,8 @@
 	本程序不得用于商业用途，仅限学习交流
 	未经允许，禁止转载
 	参考https://github.com/yhy0/ExpDemo-JavaFX
+## 下载
+	https://github.com/P1nganD/Rookie/releases
 ## 支持检测
 ### Hikvision
 
