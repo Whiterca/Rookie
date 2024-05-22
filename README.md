@@ -7,6 +7,7 @@
 参考https://github.com/yhy0/ExpDemo-JavaFX
 ## 支持检测
 ### Hikvision
+
 	Hikvision综合安防管理平台  applyAutoLoginTicket任意代码执行 	 
 	Hikvision综合安防管理平台  applyCT任意代码执行 	 
 	Hikvision综合安防管理平台  config-properties信息泄露 	 
@@ -32,6 +33,7 @@
 	Hikvision_iVMS集中监控应用管理平台  getAllUserInfo信息泄露 
 
 ### 亿赛通
+
         亿赛通电子文档安全管理系统 新 uploadFile任意文件上传 	 
 	亿赛通电子文档安全管理系统 create_SmartSec_mysql信息泄露 	 
 	亿赛通电子文档安全管理系统 ClientAjax任意文件下载 	 
