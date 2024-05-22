@@ -4,6 +4,7 @@
 用户滥用造成的一切后果与作者无关
 使用者请务必遵守当地法律
 本程序不得用于商业用途，仅限学习交流
+未经允许，禁止转载
 参考https://github.com/yhy0/ExpDemo-JavaFX
 ## 支持检测
 ### Hikvision
@@ -34,7 +35,7 @@
 
 ### 亿赛通
 
-        亿赛通电子文档安全管理系统 新 uploadFile任意文件上传 	 
+亿赛通电子文档安全管理系统 新 uploadFile任意文件上传 	 
 	亿赛通电子文档安全管理系统 create_SmartSec_mysql信息泄露 	 
 	亿赛通电子文档安全管理系统 ClientAjax任意文件下载 	 
 	亿赛通电子文档安全管理系统 UploadFileList任意文件读取 	 
